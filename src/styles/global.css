@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.carousel .slide img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.carousel .control-arrow, .carousel.carousel-slider .control-arrow {
+    background: rgba(0, 0, 0, 0.5);
+}
